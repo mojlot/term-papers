@@ -1,0 +1,12 @@
+D:\project\prog\Report\Report\bin\Debug\Report.exe.config
+D:\project\prog\Report\Report\bin\Debug\Report.exe
+D:\project\prog\Report\Report\bin\Debug\Report.pdb
+D:\project\prog\Report\Report\obj\Debug\Report.csprojAssemblyReference.cache
+D:\project\prog\Report\Report\obj\Debug\Report.Form1.resources
+D:\project\prog\Report\Report\obj\Debug\Report.Properties.Resources.resources
+D:\project\prog\Report\Report\obj\Debug\Report.csproj.GenerateResource.cache
+D:\project\prog\Report\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+D:\project\prog\Report\Report\obj\Debug\Report.exe
+D:\project\prog\Report\Report\obj\Debug\Report.pdb
+D:\project\prog\Report\Report\obj\Debug\Report.csproj.ResolveComReference.cache
+D:\project\prog\Report\Report\obj\Debug\Report.Form2.resources
